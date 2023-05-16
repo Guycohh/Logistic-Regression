@@ -1,1 +1,1 @@
-# Logistic-Regression
+# Logistic-Regression- One VS All implementation 
